@@ -3,29 +3,12 @@ title: Understanding GitHub Pages & GitHub Flow
 author: Prakirth
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  GitHub Flow :
-    Development of an idea or a project through GitHub involves the following -
-    1. Create a repository
-    2. Update README.md
-    3. Build the project along the master/main branch
-    
-    If a collaborator/yourself has a feature suggestion/bug correction for the project, then the following applies -
-    1. Open a new branch entitled with feature/bug
-    2. Commit changes to the branch
-    3. Create/Open a Pull Request
-    4. Review Pull Request and suggest/apply correction if needed
-    5. Post-Review, Merge feature/bug branch to master branch
-    
-  GitHub Pages:
-    The developed project can be deployed as a website, considering we have the required information in the following files -
-    1. INDEX.md
-    2. _CONFIG.yml
   
+  GitHub Flow & GitHub Pages are some basic and awesome tools to start
+  with before proceeding to work on projects with a Team.
+  Personal Opinion - working on these tools in an editor (Virtual Studio Code) or
+  Terminal (CLI) would be a better learning experience.
   
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
 github_username:  prak112 # DO NOT include the @ character, or else the build will fail!
