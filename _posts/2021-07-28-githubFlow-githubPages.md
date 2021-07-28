@@ -13,7 +13,7 @@
       4. Review Pull Request and suggest/apply correction if needed
       5. Post-Review, Merge feature/bug branch to master branch
     
- ## **GitHub Pages**
+## **GitHub Pages**
     
     
     The developed project can be deployed as a website, considering we have the required information in the following files -
