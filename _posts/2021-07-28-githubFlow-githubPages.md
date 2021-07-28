@@ -1,5 +1,5 @@
 ---
-title: "Understanding GitHub Flow & GitHub Pages"
+title: "An Attempt to Understand GitHub Flow & GitHub Pages"
 date: 2021-07-28
 ---
 
@@ -22,5 +22,11 @@ date: 2021-07-28
     
     
     The developed project can be deployed as a website, considering we have the required information in the following files -
-      1. INDEX.md / README.md
-      2. _CONFIG.yml
+      1. INDEX.md or README.md -
+            information regarding the project being published
+      2. _CONFIG.yml -
+            settings such as theme, author, title, brief description, social network handles.
+      3. _POSTS/YYYY-MM-DD-title.md -
+            the _POSTS folder consists of the blog posts with timestamp & title, either as a .md or .html file
+      
+ #### *Constructive Feedback is highly welcome*
